@@ -1,6 +1,7 @@
 import random
 #Guesssing game in python
 
+#initializing count
 count=""
 prompt=""
 print("Welcome to a guessing game personally designed by Ife.py")
